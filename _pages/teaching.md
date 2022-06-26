@@ -5,12 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Graduate Teaching Assistant
-- HPM880 Math/Stata Tutorial
-- Instructor: Mark Holmes
+**Graduate Teaching Assistant**
+- HPM880 Math/Stata Tutorial[Instructor: Mark Holmes] 
+
 
 - HPM881 Linear Regression Models
-- Instructor: Justin Trogdon
+[Instructor: Justin Trogdon]
 
 
 <!-- {% include base_path %}
