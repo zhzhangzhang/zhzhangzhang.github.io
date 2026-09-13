@@ -14,13 +14,8 @@ Zhang uses causal inference, quantitative modeling, and applied economics approa
 
 Before joining Washington University, Zhang was a postdoctoral fellow appointed jointly in the Health Services and Outcomes Research in Aging Populations T32 program and the Hopkins Business of Health Initiative at Johns Hopkins Bloomberg School of Public Health. She earned her PhD in health economics from the University of North Carolina at Chapel Hill, where she was a predoctoral trainee at the Carolina Population Center. She earned her MSc in health policy, planning and financing from the London School of Economics and the London School of Hygiene and Tropical Medicine. Her research has been funded by the National Bureau of Economic Research, the National Heart, Lung, and Blood Institute, and the National Institute on Aging. 
 
-Areas of focus:
-Health economics
-Health services research
-Health policy
-Technology innovation
-Aging
-Value-based care
+Areas of focus: Health economics, Health services research, Health policy, Technology innovation
+Healthy Aging, Value-based care
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
